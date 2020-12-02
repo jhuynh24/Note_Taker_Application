@@ -1,1 +1,3 @@
 # Note_Taker_Application
+
+For this assignment I used the express node server to deploy an application that writes notes and persists them inside the database. The server is launched through the terminal by running a "node server.js" command. Then the user is able to access the local host server through the web browser. When the user gains access to the application, they are able to create notes by clicking the write icon and then fill in the note title and description. Afterwards the user can click the save icon to record the note inside the db.json file and the front-end. The user also has the ability to delete the notes written in order to keep their additions up to date and organized. 
